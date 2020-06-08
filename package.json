@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnjordal/analyser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finnjordal/analyser/issues"
+  },
+  "homepage": "https://github.com/finnjordal/analyser#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
